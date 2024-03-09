@@ -1,0 +1,54 @@
+body{
+    background-image: url(download.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#main {
+    margin: auto;
+    height: 300px;
+    width: 800px;
+    border-radius: 20px;
+    border: 2px solid rgb(133, 122, 122);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(172, 149, 149);
+     margin-top: 150px;
+}
+#heading {
+    background-color: yellow;
+    width: 250px;
+    text-align: center;
+}
+label{
+    margin: 60px;
+    font-size: 30px;
+}
+input{
+    background-color: rgba(169, 169, 169, 0.74);
+    margin-top: 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+    font-size: 30px;
+}
+button{
+   margin-top: 30px;
+    font-size: 25px;
+    color: black;  
+    background-color: yellow;
+
+}
+a{
+    background-color: yellow;
+    padding: 2px;
+    border: 2px solid black;
+    text-decoration: none;
+    font-size: 25px;
+    color: black;  
+}
+#link{
+    
+    margin-left: 300px;
+}
+
+
